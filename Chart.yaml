@@ -1,3 +1,6 @@
+apiVersion: v2
+name: app
+version: 0.1.0
 dependencies:
   - name: my-chart
     version: 9.1.1
