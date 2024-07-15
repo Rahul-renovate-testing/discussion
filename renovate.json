@@ -1,0 +1,5 @@
+{
+  "registryAliases": {
+  "@my-chart-registry": "htttps://my.registry.com/charts"
+}
+}
