@@ -1,0 +1,4 @@
+dependencies:
+  - name: my-chart
+    version: 9.1.1
+    repository: "@my-chart-registry"
